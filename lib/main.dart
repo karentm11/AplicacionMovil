@@ -48,7 +48,7 @@ class _StateWidgetState extends State<StateWidget> {
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: <Widget>[
 
-            const Text("Karen Torres Mero 7mo A",
+            const Text("Veronica Quijije",
                 style:
                 TextStyle(fontSize: 26.0, fontWeight: FontWeight.bold, color:Colors.indigo)),
             ListScreen(),
